@@ -1,5 +1,3 @@
-# Toxic_content_classification
-
 # 🛡️ Toxicity Detection System (Text & Image)
 
 A Streamlit-based application that detects whether input text or image uploaded are **Toxic** or **Non-Toxic** using a fine-tuned DistilBERT model with LoRA and BLIP for image captioning.
